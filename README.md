@@ -1,4 +1,4 @@
-# DCASE-2023-Papers
+# DCASE-2023-Workshop Papers
 
 ![img.png](DCASE-logo.png)
 
