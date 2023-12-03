@@ -7,7 +7,7 @@ Workshop on Detection and Classification of Acoustic Scenes and Events
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abikaki/DCASE-2023-Papers/blob/main/README.md)
 
-[Proceedings](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) of the 8th Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2023), September 2023
+[Proceedings](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) of the 8<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2023), September 2023
 
 
 
@@ -16,18 +16,25 @@ Contributions are welcome!
 
 ## Papers
 
-| **ID** | **Title** | **Repo** | **PDF**                                                                                                                                                                                   |
-| ------ | ----------| -------- |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| 1 | Sound Event Classification with Object-Based Labels | :heavy_minus_sign:  | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Afolaranmi_71.pdf) |
-| 2 | Learning in the Wild: Bioacoustics Few Shot Learning Without Using a Training Set | |
-| 3 | Multi-Resolution Conformer for Sound Event Detection: Analysis and Optimization | |
-| 4 | Foley Sound Synthesis at the DCASE 2023 Challenge | |
-| 5 | STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database | |
-| 6 | Foley Sound Synthesis Based on Generative Adversarial Networks Using Oneself-Conditioned Contrastive Learning | |
-| 7 | Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring | |
-| 8 | Post-Processing Independent Evaluation of Sound Event Detection Systems | |
-| 9 | ToyADMOS2+: New Toyadmos Data and Benchmark Results of the First-Shot Anomalous Sound Event Detection Baseline | |
-| 10 | Evaluating Classification Systems Against Soft Labels with Fuzzy Precision and Recall | |
+<script>
+  document.getElementById('toggle').addEventListener('click', function() {
+    var content = document.getElementById('content');
+    content.style.display = (content.style.display === 'none' || content.style.display === '') ? 'block' : 'none';
+  });
+</script>
+
+| **ID** | **Title** | **Repo** | **PDF** | **Abstract** |
+| ------ | ----------| -------- |---------|--------------| 
+| 1 | Sound Event Classification with Object-Based Labels | :heavy_minus_sign:  | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Afolaranmi_71.pdf) | <details><summary id="toggle">Abstract</summary> <div id="content" style="display: none;"> Availability of audio-visual datasets and increase of computational resources have made possible the use of deep learning techniques that exploit the relationship between audio and video. In this paper, we present an approach that makes use of pretrained models for object detection to label audio clips based on objects that are expected to make sound. The study consists of performing object detection for four target classes belonging to vehicle category and training sound classifiers in supervised way using the resulting labels. We conclude that object detection is a useful alternative for labeling audio-visual material for audio classification, with substantial improvements in different datasets. Results show that even for data provided with reference audio labels, labeling through video object detection can identify additional, non-annotated acoustic events, thus improving the quality of the labels in existing datasets. This promotes exploitation of video content not only as an alternative, but also to complement the available label information.</div></details> |
+| 2 | Learning in the Wild: Bioacoustics Few Shot Learning Without Using a Training Set | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Aguado_58.pdf) | 
+| 3 | Multi-Resolution Conformer for Sound Event Detection: Analysis and Optimization | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Barahona_69.pdf) |
+| 4 | Foley Sound Synthesis at the DCASE 2023 Challenge | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Choi_4.pdf) |
+| 5 | STELIN-US: A Spatio-Temporally Linked Neighborhood Urban Sound Database | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Chunarkar_49.pdf) |
+| 6 | Foley Sound Synthesis Based on Generative Adversarial Networks Using Oneself-Conditioned Contrastive Learning | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Chung_65.pdf) |
+| 7 | Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Dohi_70.pdf) |
+| 8 | Post-Processing Independent Evaluation of Sound Event Detection Systems | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Ebbers_62.pdf) |
+| 9 | ToyADMOS2+: New Toyadmos Data and Benchmark Results of the First-Shot Anomalous Sound Event Detection Baseline | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Harada_74.pdf) |
+| 10 | Evaluating Classification Systems Against Soft Labels with Fuzzy Precision and Recall | :heavy_minus_sign: | [![DCASE](https://img.shields.io/badge/pdf-DCASE-395C5.svg)](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Harju_51.pdf) |
 | 11 | META-SELD: Meta-Learning for Fast Adaptation to the New Environment in Sound Event Localization and Detection | |
 | 12 | Leveraging Geometrical Acoustic Simulations of Spatial Room Impulse Responses for Improved Sound Event Detection and Localization | |
 | 13 | Speech Obfuscation in Mel Spectra That Allows for Centralised Annotation and Classification of Sound Events | |
