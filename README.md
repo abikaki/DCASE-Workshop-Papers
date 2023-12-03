@@ -8,7 +8,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abikaki/DCASE-2023-Papers/blob/main/README.md)
 
-[Proceedings](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) of the 8<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2023), September 2023
+A collection of [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) papers and other material. 
 
 <!--
 <script>
@@ -74,3 +74,7 @@ Contributions are welcome!
 | 46 | PLDISET: Probabilistic Localization and Detection of Independent Sound Events with Transformers | |
 | 47 | Crowdsourcing and Evaluating Text-Based Audio Retrieval Relevances | |
 | 48 | Text-Driven Foley Sound Generation with Latent Diffusion Model | |
+
+## Videos
+
+<i> coming soon </i>
