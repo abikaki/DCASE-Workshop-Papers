@@ -9,14 +9,14 @@ Workshop on Detection and Classification of Acoustic Scenes and Events
 
 [Proceedings](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) of the 8<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2023), September 2023
 
-
+<!--
 <script>
   document.getElementById('toggle').addEventListener('click', function() {
     var content = document.getElementById('content');
     content.style.display = (content.style.display === 'none' || content.style.display === '') ? 'block' : 'none';
   });
 </script>
-
+-->
 
 
 ## Contribute
