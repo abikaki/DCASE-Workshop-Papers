@@ -98,7 +98,9 @@ Contributions are welcome!
 
 ## Datasets
 
-| **Title**                              | **Task** | **Year** | **Repo**                                            |
-|----------------------------------------|:--------:|:--------:|:---------------------------------------------------:|
-| DCASE 2023 Evaluation dataset          | 2 | 2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7860847.svg)](https://doi.org/10.5281/zenodo.7860847)  |
-| DCASE 2023 Additional Training dataset | 2 | 2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7830345.svg)](https://doi.org/10.5281/zenodo.7830345)  |
+| **ID** | **Title**                              | **Task** | **Year** |                                                 **Repo**                                                  |
+|:------:|----------------------------------------|:--------:|:--------:|:---------------------------------------------------------------------------------------------------------:|
+|   1    |      DCASE 2023 Evaluation dataset     |    2     | 2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7860847.svg)](https://doi.org/10.5281/zenodo.7860847) |
+|   2    | DCASE 2023 Additional Training dataset |    2     | 2023 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7830345.svg)](https://doi.org/10.5281/zenodo.7830345) |
+|   3    |   DESED    |    4     | 2020 |  [![Web Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://project.inria.fr/desed/) <br/> [![GitHub](https://img.shields.io/github/stars/turpaultn/DESED)](https://github.com/turpaultn/DESED)   |
+|   4    | DCASE 2023 |    7     | 2023 | [![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv:2304.12521.svg)](https://doi.org/10.48550/arXiv:2304.12521) |
