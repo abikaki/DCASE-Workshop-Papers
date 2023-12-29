@@ -1,6 +1,6 @@
 # DCASE-2023-Workshop Papers
 
-![img.png](DCASE-logo.png)
+![img.png](dcase2023-logo.png)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Conference](http://img.shields.io/badge/DCASE-2023-395C5.svg)](https://dcase.community/)
@@ -80,7 +80,7 @@ Contributions are welcome!
 
 
 
-## <img src="DCASE-YouTube.png" width="24"/> Videos
+## <img src="dcase2023-youtube.png" width="24"/> Videos
 
 <i>coming soon </i>
 
