@@ -3,12 +3,12 @@
 ![img.png](dcase2023-logo.png)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Conference](http://img.shields.io/badge/DCASE-2023-395C5.svg)](https://dcase.community/)
+[![Conference](http://img.shields.io/badge/DCASE-2023-002F6C.svg)](https://dcase.community/)
 ![Version](https://img.shields.io/badge/version-v1.0.0-rc0?color=yellow)
 [![MIT License](https://custom-icon-badges.demolab.com/github/license/abikaki/DCASE-2023-Papers?logo=law)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abikaki/DCASE-2023-Papers/blob/main/README.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/abikaki/DCASE-2023-Papers?color=red)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/abikaki/DCASE-2023-Papers&label=Visitors&countColor=%808080&style=flat)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fabikaki%2FDCASE-2023-Papers&countColor=%23ba68c8&style=plastic)
 
 A collection of [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) papers and other material. 
 
