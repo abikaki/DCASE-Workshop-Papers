@@ -4,10 +4,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Conference](http://img.shields.io/badge/DCASE-2023-395C5.svg)](https://dcase.community/)
-![Version](https://img.shields.io/badge/version-v1.0.0-rc0)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://mit-license.org/)
+![Version](https://img.shields.io/badge/version-v1.0.0-rc0?color=yellow)
+[![MIT License](https://custom-icon-badges.demolab.com/github/license/abikaki/DCASE-2023-Papers?logo=law)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abikaki/DCASE-2023-Papers/blob/main/README.md)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/abikaki/DCASE-2023-Papers&label=Visitors&countColor=%3263799&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/abikaki/DCASE-2023-Papers?color=red)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/abikaki/DCASE-2023-Papers&label=Visitors&countColor=%808080&style=flat)
 
 A collection of [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) papers and other material. 
 
@@ -24,7 +25,10 @@ The upcoming DCASE workshop is scheduled for October 23-25, 2024 in Tokyo, Japan
 
 
 ## Contribute
+
 Contributions are welcome!
+
+
 
 ## Papers
 
@@ -80,24 +84,19 @@ Contributions are welcome!
 
 
 
-## <img src="dcase2023-youtube.png" width="24"/> Videos
-
-<i>coming soon </i>
-
-
 
 ## Tasks
 
 
-| **ID** | **Category** | **Task**                                                                                                 | **Baselines**  |                                                                                                           **Proposed Model(s)**                                                                                                            | 
-|:------:|:------------:|----------------------------------------------------------------------------------------------------------|:--------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|   1    |    Scene     | Low-Complexity Acoustic Scene Classification                                                             | [![GitHub](https://img.shields.io/github/stars/marmoi/dcase2022_task1_baseline)](https://github.com/marmoi/dcase2022_task1_baseline) | 
-|   2    |  Monitoring  | First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring                       | [![GitHub](https://img.shields.io/github/stars/nttcslab/dase2023_task2_baseline_ae)](https://github.com/nttcslab/dase2023_task2_baseline_ae) |
-|   3    | Localization | Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes                            | Track A:[![GitHub](https://img.shields.io/github/stars/sharathadavanne/seld-dcase2023)](https://github.com/sharathadavanne/seld-dcase2023) <br/> Track B:[![GitHub](https://img.shields.io/github/stars/sony/audio-visual-seld-dcase2023)](https://github.com/sony/audio-visual-seld-dcase2023) |
-|   4    |    Events    | Sound Event Detection with Weak Labels and Synthetic Soundscapes; Sound Event Detection with Soft Labels | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/DCASE-REPO/DESED_task/tree/master/recipes/dcase2023_task4_baseline) |
-|   5    |     Bio      | Few-shot Bioacoustic Event Detection                                                                     | [![GitHub](https://img.shields.io/github/stars/c4dm/dcase-few-shot-bioacoustic)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines) | 1.Spectrogram correlation template matching <br/> 2.Deep learning prototypical network <br/> [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines) | 
-|   6    |   Caption    | Automated Audio Captioning and Language-Based Audio Retrieval                                            | [![GitHub](https://img.shields.io/github/stars/felixgontier/dcase-2023-baseline)](https://github.com/felixgontier/dcase-2023-baseline) |                                                                                                             :heavy_minus_sign:                                                                                                             |
-|   7    |  Synthesis   | Foley Sound Synthesis                                                                                    | [![GitHub](https://img.shields.io/github/stars/DCASE2023-Task7-Foley-Sound-Synthesis/dcase2023_task7_baseline)](https://github.com/DCASE2023-Task7-Foley-Sound-Synthesis/dcase2023_task7_baseline) |                                                      Pre-trained HiFi-GAN <br/> [![GitHub](https://img.shields.io/github/stars/jik876/hifi-gan)](https://github.com/jik876/hifi-gan)                                                       |
+| **ID** | **Category** | **Task**                                                                                                 |                                                                                                                                                         **Baselines**                                                                                                                                                         |                                                                                                                                                                                     **Proposed Model(s)**                                                                                                                                                                                      | 
+|:------:|:------------:|----------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   1    |    Scene     | Low-Complexity Acoustic Scene Classification                                                             |                                                                                             [![GitHub](https://img.shields.io/github/stars/marmoi/dcase2022_task1_baseline)](https://github.com/marmoi/dcase2022_task1_baseline)                                                                                              |                                                                                             A CNN-based approach, same as used in the DCASE 2022 Task 1 <br/> [![GitHub](https://img.shields.io/github/stars/marmoi/dcase2022_task1_baseline)](https://github.com/marmoi/dcase2022_task1_baseline)                                                                                             |  
+|   2    |  Monitoring  | First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring                       |                                                                                         [![GitHub](https://img.shields.io/github/stars/nttcslab/dase2023_task2_baseline_ae)](https://github.com/nttcslab/dase2023_task2_baseline_ae)                                                                                          |                                       Autoencoder-based baseline with two operating modes [![arXiv](https://img.shields.io/badge/arXiv-2303.00455-b31b1b.svg)](https://arxiv.org/pdf/2303.00455.pdf) <br/> [![GitHub](https://img.shields.io/github/stars/nttcslab/dase2023_task2_baseline_ae)](https://github.com/nttcslab/dase2023_task2_baseline_ae)                                        | 
+|   3    | Localization | Sound Event Localization and Detection Evaluated in Real Spatial Sound Scenes                            |                 Track A[![GitHub](https://img.shields.io/github/stars/sharathadavanne/seld-dcase2023)](https://github.com/sharathadavanne/seld-dcase2023) <br/> Track B[![GitHub](https://img.shields.io/github/stars/sony/audio-visual-seld-dcase2023)](https://github.com/sony/audio-visual-seld-dcase2023)                 |                                 **Track A** <br/> Similar to the DCASE2022 baseline, based on SELDNet [![arXiv](https://img.shields.io/badge/arXiv-1807.00129-b31b1b.svg)](https://arxiv.org/abs/1807.00129) <br/> **Track B** <br/> Similar to Track A [![arXiv](https://img.shields.io/badge/arXiv-1807.00129-b31b1b.svg)](https://arxiv.org/abs/1807.00129)                                 |                                  
+|   4    |    Events    | Sound Event Detection with Weak Labels and Synthetic Soundscapes; Sound Event Detection with Soft Labels | SubTask A [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/DCASE-REPO/DESED_task/tree/master/recipes/dcase2023_task4_baseline) <br/> SubTask B [![GitHub](https://img.shields.io/github/stars/marmoi/dcase2023_task4b_baseline)](https://github.com/marmoi/dcase2023_task4b_baseline) |                       **SubTask A** <br/>                   1.Baseline same as in [DCASE 2021 Task 4](https://dcase.community/challenge2021/task-sound-event-detection-and-separation-in-domestic-environments#sound-event-detection-baseline) <br/> 2.Baseline (AudioSet strong) <br/> 3.Baseline (BEATs) <br/> **SubTask B** <br/> 4.A CRNN with a linear output layer                       |
+|   5    |     Bio      | Few-shot Bioacoustic Event Detection                                                                     |                                                                                   [![GitHub](https://img.shields.io/github/stars/c4dm/dcase-few-shot-bioacoustic)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines)                                                                                    | 1.Spectrogram correlation template matching <br/> [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines) <br/> 2.Deep learning prototypical network <br/> [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines) | 
+|   6    |   Caption    | Automated Audio Captioning and Language-Based Audio Retrieval                                            |                                                                                            [![GitHub](https://img.shields.io/github/stars/felixgontier/dcase-2023-baseline)](https://github.com/felixgontier/dcase-2023-baseline)                                                                                             |                                                                                                         Language-based audio retrieval baseline [![GitHub](https://img.shields.io/github/stars/xieh97/dcase2023-audio-retrieval)](https://github.com/xieh97/dcase2023-audio-retrieval)                                                                                                         |
+|   7    |  Synthesis   | Foley Sound Synthesis                                                                                    |                                                              [![GitHub](https://img.shields.io/github/stars/DCASE2023-Task7-Foley-Sound-Synthesis/dcase2023_task7_baseline)](https://github.com/DCASE2023-Task7-Foley-Sound-Synthesis/dcase2023_task7_baseline)                                                               |                                                                             Pre-trained HiFi-GAN [![arXiv](https://img.shields.io/badge/arXiv-2010.05646-b31b1b.svg)](https://arxiv.org/abs/2010.05646) <br/> [![GitHub](https://img.shields.io/github/stars/jik876/hifi-gan)](https://github.com/jik876/hifi-gan)                                                                             |
 
 
 
@@ -122,7 +121,14 @@ Contributions are welcome!
 |   15   | AudioCaps                                                               | 7 |   2019   | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://audiocaps.github.io/) <br/> [![GitHub](https://img.shields.io/github/stars/cdjkim/audiocaps)](https://github.com/cdjkim/audiocaps)    |
 |   16   | AudioSet                                                                | 7 |   2017   | [![Web Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://research.google.com/audioset/) <br/> [![GitHub](https://img.shields.io/github/stars/audioset/ontology)](https://github.com/audioset/ontology) |
 
+
+
+## <img src="dcase2023-youtube.png" width="24"/> Videos
+
+* Keynote I: Learning by Audio-Visual Analogy by Andrew Owens  &nbsp; <a href="https://www.youtube.com/watch?v=gcOETGbpYq0"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="16"> </a>
+* Keynote II: The Paralinguistics Challenges by Björn Schuller &nbsp; <a href="https://www.youtube.com/watch?v=TJCDuw1UQKc"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="16"> </a> 
+
+
   
 ## Key Terms
-
-<img src="dcase2023-wordcloud-u.png" width="524"/>
+<img src="dcase2023-wordcloud-u.png" width="624"/>
