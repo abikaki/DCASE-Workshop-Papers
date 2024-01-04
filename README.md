@@ -11,7 +11,10 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/abikaki/DCASE-2023-Papers?color=red)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fabikaki%2FDCASE-2023-Papers&countColor=%23ba68c8&style=plastic)
 
-A collection of [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y) papers and other material. 
+
+The DCASE workshop provides a venue for researchers working on computational analysis of sound events and scene analysis to present and discuss their results.  The workshop is organized in conjunction with the DCASE challenge.
+
+The proceedings of the 8<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events, DCASE 2023, can be found at this link [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y). 
 
 <!--
 <script>
