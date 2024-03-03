@@ -1,6 +1,7 @@
 # DCASE-2023-Workshop Papers
 
-![img.png](dcase2023-logo.png)
+<a href="https://dcase.community/workshop2023/"><img src="dcase2023-logo.png" width="500"/></a>
+
 
 
 The proceedings of the 8<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events, DCASE 2023, can be found at this link [DCASE 2023 Workshop on Detection and Classification of Acoustic Scenes and Events](https://trepo.tuni.fi/bitstream/handle/10024/152310/978-952-03-3171-9.pdf?sequence=2&isAllowed=y). 
