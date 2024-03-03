@@ -1,7 +1,7 @@
 # DCASE-Workshop Papers
 
 
-[![Conference](http://img.shields.io/badge/DCASE-2023-002F6C.svg)](https://dcase.community/)
+[![Conference](http://img.shields.io/badge/DCASE-Workshop-002F6C.svg)](https://dcase.community/)
 ![Version](https://img.shields.io/badge/version-v1.0.0-rc0?color=yellow)
 [![MIT License](https://custom-icon-badges.demolab.com/github/license/abikaki/DCASE-2023-Papers?logo=law)](LICENSE)
 ![](https://custom-icon-badges.demolab.com/github/last-commit/abikaki/DCASE-2023-Papers?logo=history&logoColor=white)
