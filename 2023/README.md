@@ -1,6 +1,6 @@
 # DCASE-2023-Workshop Papers
 
-<a href="https://dcase.community/workshop2023/"><img src="dcase2023-logo.png" width="500"/></a>
+<a href="https://dcase.community/workshop2023/"><img src="dcase2023-logo.png" width="800"/></a>
 
 
 
