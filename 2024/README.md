@@ -1,5 +1,5 @@
 # DCASE-2024-Workshop Papers
-<a href="https://dcase.community/workshop2024/"><img src="dcase2024-logo.png" width="500"/></a>
+<a href="https://dcase.community/workshop2024/"><img src="dcase2024-logo.png" width="800"/></a>
 
 The 9<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes and Events, DCASE 2024, will take place in Tokyo, Japan on 23-25 October.
 
