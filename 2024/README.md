@@ -10,16 +10,16 @@ The 9<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes a
 
 | **ID** | **Category** | **Task**    |       **Baselines**             |    **Proposed Model(s)**    |                                                                                                       
 |:------:|:------------:|-----------------|:---------------------------:|:---------------------------:|
-| 1 | Scenes | Data-Efficient Low-Complexity Acoustic Scene Classification | | |
-| 2 | Monitoring | First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring | | |
-| 3 | Localization | Audio and audiovisual sound event localization and detection with source distance estimation | | |
-| 4 | Events | Sound event detection with heterogeneous training dataset and potentially missing labels | | |
-| 5 | Bio | Few-shot Bioacoustic Event Detection | | |
-| 6 | Caption | Automated Audio Captioning | | |
-| 7 | Synthesis | Sound Scene Synthesis | | |
-| 8 | Retrieval | Language-Based Audio Retrieval | | |
-| 9 | Separation | Language-Queried Audio Source Separation | | |
-| 10| Monitoring | Acoustic-based traffic monitoring | | |
+| 1 | Scenes | Data-Efficient Low-Complexity Acoustic Scene Classification | [![GitHub](https://img.shields.io/github/stars/CPJKU/dcase2024_task1_baseline)](https://github.com/CPJKU/dcase2024_task1_baseline) | A CNN-based approach |
+| 2 | Monitoring | First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring | [![GitHub](https://img.shields.io/github/stars/nttcslab/dcase2023_task2_baseline_ae)](https://github.com/nttcslab/dcase2023_task2_baseline_ae) | Autoencoder-based baseline with two operating modes [![arXiv](https://img.shields.io/badge/arXiv-2303.00455-b31b1b.svg)](https://arxiv.org/pdf/2303.00455.pdf) |
+| 3 | Localization | Audio and audiovisual sound event localization and detection with source distance estimation | [![GitHub](https://img.shields.io/github/stars/partha2409/DCASE2024_seld_baseline)](https://github.com/partha2409/DCASE2024_seld_baseline) | Track A: Audio-only baseline <br/> [![arXiv](https://img.shields.io/badge/arXiv-2111.08192-b31b1b.svg)](https://arxiv.org/pdf/2111.08192.pdf) <br/> Track B: Audiovisual baseline <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.09034-b31b1b.svg)](https://arxiv.org/pdf/2312.09034.pdf) | 
+| 4 | Events | Sound event detection with heterogeneous training dataset and potentially missing labels | TBA | TBA |
+| 5 | Bio | Few-shot Bioacoustic Event Detection | [![GitHub Page](https://img.shields.io/badge/GitHub-Page-159957.svg)](https://github.com/c4dm/dcase-few-shot-bioacoustic/tree/main/baselines/dcase2024_task5) | Prototypical Network with negative sampling <br/> [![arXiv](https://img.shields.io/badge/arXiv-2403.18638-b31b1b.svg)](https://arxiv.org/pdf/2403.18638.pdf) |
+| 6 | Caption | Automated Audio Captioning | [![GitHub](https://img.shields.io/github/stars/Labbeti/dcase2024-task6-baseline)](https://github.com/Labbeti/dcase2024-task6-baseline) | A sequence-to-sequence system | 
+| 7 | Synthesis | Sound Scene Synthesis | [![GitHub](https://img.shields.io/github/stars/DCASE2024-Task7-Sound-Scene-Synthesis/AudioLDM-training-finetuning)](https://github.com/DCASE2024-Task7-Sound-Scene-Synthesis/AudioLDM-training-finetuning) | AudioLDM <br/> [![ICML](https://img.shields.io/badge/pdf-ICML-218.svg)](https://proceedings.mlr.press/v202/liu23f/liu23f.pdf) |
+| 8 | Retrieval | Language-Based Audio Retrieval | [![GitHub](https://img.shields.io/github/stars/xieh97/dcase2023-audio-retrieval)](https://github.com/xieh97/dcase2023-audio-retrieval) | A bi-encoder architecture with a pretrained CNN14 (see PANNs [![arXiv](https://img.shields.io/badge/arXiv-1912.10211-b31b1b.svg)](https://arxiv.org/pdf/1912.10211.pdf)) being the audio encoder and the Sentence-BERT (i.e., "all-mpnet-base-v2") being the text encoder [![arXiv](https://img.shields.io/badge/arXiv-1908.10084-b31b1b.svg)](https://arxiv.org/pdf/1908.10084.pdf) | 
+| 9 | Separation | Language-Queried Audio Source Separation | [![GitHub](https://img.shields.io/github/stars/Audio-AGI/dcase2024_task9_baseline)](https://github.com/Audio-AGI/dcase2024_task9_baseline) | LASS-Net <br/> [![arXiv](https://img.shields.io/badge/arXiv-2203.15147-b31b1b.svg)](https://arxiv.org/pdf/2203.15147.pdf) |
+| 10| Monitoring | Acoustic-based traffic monitoring | [![GitHub](https://img.shields.io/github/stars/boschresearch/acoustic-traffic-simulation-counting)](https://github.com/boschresearch/acoustic-traffic-simulation-counting) | A Convoltional Recurrnet Neural Network (CRNN) based architecture <br/> [![DAFx20in22](https://img.shields.io/badge/pdf-DAFx20in22-2188.svg)](https://www.dafx.de/paper-archive/2022/papers/DAFx20in22_paper_9.pdf) <br/> [![arXiv](https://img.shields.io/badge/arXiv-2401.09308-b31b1b.svg)](https://arxiv.org/pdf/2401.09308.pdf)
 
 ## Datasets
 
