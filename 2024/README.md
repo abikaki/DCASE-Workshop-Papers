@@ -9,7 +9,7 @@ The 9<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes a
 ## Challenge Tasks
 
 | **ID** | **Category** | **Task**    |       **Baselines**             |    **Proposed Model(s)**    |                                                                                                       
-|:------:|:------------:|-----------------|:---------------------------:|:---------------------------:|
+|:------:|:------------:|-----------------|:---------------------------:|---------------------------|
 | 1 | Scenes | Data-Efficient Low-Complexity Acoustic Scene Classification | [![GitHub](https://img.shields.io/github/stars/CPJKU/dcase2024_task1_baseline)](https://github.com/CPJKU/dcase2024_task1_baseline) | A CNN-based approach |
 | 2 | Monitoring | First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring | [![GitHub](https://img.shields.io/github/stars/nttcslab/dcase2023_task2_baseline_ae)](https://github.com/nttcslab/dcase2023_task2_baseline_ae) | Autoencoder-based baseline with two operating modes [![arXiv](https://img.shields.io/badge/arXiv-2303.00455-b31b1b.svg)](https://arxiv.org/pdf/2303.00455.pdf) |
 | 3 | Localization | Audio and audiovisual sound event localization and detection with source distance estimation | [![GitHub](https://img.shields.io/github/stars/partha2409/DCASE2024_seld_baseline)](https://github.com/partha2409/DCASE2024_seld_baseline) | Track A: Audio-only baseline <br/> [![arXiv](https://img.shields.io/badge/arXiv-2111.08192-b31b1b.svg)](https://arxiv.org/pdf/2111.08192.pdf) <br/> Track B: Audiovisual baseline <br/> [![arXiv](https://img.shields.io/badge/arXiv-2312.09034-b31b1b.svg)](https://arxiv.org/pdf/2312.09034.pdf) | 
