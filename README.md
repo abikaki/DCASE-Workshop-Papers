@@ -23,7 +23,7 @@ Contributions are welcome!
 ## About DCASE
 
 * A. Mesaros, R. Serizel, T. Heittola, T. Virtanen, and M. D. Plumbley, [A decade of DCASE: Achievements, practices, evaluations and future challenges.](http://arxiv.org/abs/2410.04951) arXiv, Oct. 07, 2024. 
-* T. Khandelwal, R. K. Das, and E. S. Chng, [Sound Event Detection: A Journey Through DCASE Challenge Series](https://www.nowpublishers.com/article/Details/SIP-2023-0051) APSIPA Transactions on Signal and Information Processing, vol. 13, no. 1, p. e3, Feb. 13, 2024.
+* T. Khandelwal, R. K. Das, and E. S. Chng, [Sound Event Detection: A Journey Through DCASE Challenge Series](https://www.nowpublishers.com/article/Details/SIP-2023-0051) APSIPA Transactions on Signal and Information Processing, vol. 13, no. 1, e3, Feb. 13, 2024.
 
 
 ## DCASE Workshops
