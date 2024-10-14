@@ -30,6 +30,8 @@ Contributions are welcome!
 
 |      **Date**      | **Online available**|
 |:------------------:|:-------------------:|
-| November 2022  | [![Conference](http://img.shields.io/badge/DCASE-2022-9F8556.svg)](https://dcase.community/workshop2022/index) |
+| October 2024 | [![Conference](http://img.shields.io/badge/DCASE-2024-9F8556.svg)](https://dcase.community/workshop2024/index)<br/> [DCASE-2024 selected material](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md) |
 | September 2023 | [![Conference](http://img.shields.io/badge/DCASE-2023-9F8556.svg)](https://dcase.community/workshop2023/index) <br/> [DCASE-2023 selected material](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2023/README.md)  |
-| October 2024 | [![Conference](http://img.shields.io/badge/DCASE-2024-9F8556.svg)](https://dcase.community/workshop2024/index)<br/> [DCASE-2024 selected material](https://github.com/abikaki/DCASE-Workshop-Papers/blob/main/2024/README.md) |  
+| November 2022  | [![Conference](http://img.shields.io/badge/DCASE-2022-9F8556.svg)](https://dcase.community/workshop2022/index) |
+
+  
