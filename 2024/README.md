@@ -84,3 +84,7 @@ The 9<sup>th</sup> Workshop on Detection and Classification of Acoustic Scenes a
 | 8 | Clotho v2.1 |     8     | 2024 |                                                                                    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4783391.svg)](https://zenodo.org/record/4783391)                                                                                     |
 | 9 | DCASE 2024 LASS Development + Validation(synth) | 9 | 2024 | 1. Development [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10887496.svg)](https://zenodo.org/records/10887496) <br/> 2. Validation [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10886481.svg)](https://zenodo.org/records/10886481)             |
 | 10 | Task 10, Development dataset | 10 | 2024 |                                                                                   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10700792.svg)](https://zenodo.org/records/10700792)                                                                                   |
+
+
+## Key Terms
+<img src="dcase2024-wordcloud-u.png" width="624"/>
